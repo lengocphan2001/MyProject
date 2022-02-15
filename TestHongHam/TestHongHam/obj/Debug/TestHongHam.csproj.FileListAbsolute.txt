@@ -1,0 +1,10 @@
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\bin\Debug\TestHongHam.exe.config
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\bin\Debug\TestHongHam.exe
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\bin\Debug\TestHongHam.pdb
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\obj\Debug\TestHongHam.csproj.AssemblyReference.cache
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\obj\Debug\TestHongHam.Form1.resources
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\obj\Debug\TestHongHam.Properties.Resources.resources
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\obj\Debug\TestHongHam.csproj.GenerateResource.cache
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\obj\Debug\TestHongHam.csproj.CoreCompileInputs.cache
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\obj\Debug\TestHongHam.exe
+C:\Users\lengo\source\repos\TestHongHam\TestHongHam\obj\Debug\TestHongHam.pdb

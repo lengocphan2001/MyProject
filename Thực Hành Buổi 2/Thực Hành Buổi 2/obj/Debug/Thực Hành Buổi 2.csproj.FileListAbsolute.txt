@@ -1,0 +1,10 @@
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\bin\Debug\Thực Hành Buổi 2.exe.config
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\bin\Debug\Thực Hành Buổi 2.exe
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\bin\Debug\Thực Hành Buổi 2.pdb
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\obj\Debug\Thực Hành Buổi 2.csproj.AssemblyReference.cache
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\obj\Debug\Thực_Hành_Buổi_2.Form1.resources
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\obj\Debug\Thực_Hành_Buổi_2.Properties.Resources.resources
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\obj\Debug\Thực Hành Buổi 2.csproj.GenerateResource.cache
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\obj\Debug\Thực Hành Buổi 2.csproj.CoreCompileInputs.cache
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\obj\Debug\Thực Hành Buổi 2.exe
+C:\Users\lengo\source\repos\Thực Hành Buổi 2\Thực Hành Buổi 2\obj\Debug\Thực Hành Buổi 2.pdb
